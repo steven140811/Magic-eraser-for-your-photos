@@ -1,0 +1,5 @@
+{
+  "name": "ClearView AI",
+  "description": "An elegant, Apple-inspired tool to magically remove watermarks from images using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
